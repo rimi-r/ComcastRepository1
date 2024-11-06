@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-06T10:51:53 IST" name="Default suite" finished-at="2024-11-06T10:51:53 IST" duration-ms="63">
+  <suite started-at="2024-11-06T11:10:54 IST" name="Default suite" finished-at="2024-11-06T11:10:54 IST" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2024-11-06T10:51:53 IST" name="Default test" finished-at="2024-11-06T10:51:53 IST" duration-ms="63">
+    <test started-at="2024-11-06T11:10:54 IST" name="Default test" finished-at="2024-11-06T11:10:54 IST" duration-ms="43">
       <class name="com.demoTest.DemoTest1">
-        <test-method signature="demm()[pri:0, instance:com.demoTest.DemoTest1@272113c4]" started-at="2024-11-06T10:51:53 IST" name="demm" finished-at="2024-11-06T10:51:53 IST" duration-ms="11" status="PASS">
+        <test-method signature="demm()[pri:0, instance:com.demoTest.DemoTest1@942a29c]" started-at="2024-11-06T11:10:54 IST" name="demm" finished-at="2024-11-06T11:10:54 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demm -->
