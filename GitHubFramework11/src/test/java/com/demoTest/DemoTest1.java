@@ -10,6 +10,7 @@ public class DemoTest1 {
 		{
 			System.out.println("helo");
 			System.out.println("fly");
+			System.out.println("test1");
 		}
 		
 	}
