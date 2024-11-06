@@ -8,5 +8,6 @@ public class CreateProductPage {
 	public void createProduct() {
 		System.out.println("add product");
 		System.out.println("add product1");
+		System.out.println("123");
 	}
 }
