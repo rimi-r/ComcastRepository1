@@ -9,6 +9,7 @@ public class DemoTest1 {
 		public void demm()
 		{
 			System.out.println("helo");
+			System.out.println("fly");
 		}
 		
 	}
